@@ -15,6 +15,6 @@ onChat: async function({
     message,
     getLang
 }) {
-    if (event.body && event.body.toLowerCase() == "$owner") return message.reply("Hello! My owner/developer is Jhou serrano. this is my owner fb if you want to contact him.      https://www.facebook.com/profile.php?id=100094057788874");
+    if (event.body && event.body.toLowerCase() == "$owner") return message.reply("Hello! My owner/developer is Rudraa Fury. this is my owner fb if you want to contact him.      https://www.facebook.com/profile.php?id=61576675926196");
 }
 };
